@@ -6,12 +6,11 @@
   margin-bottom: 0;
 }
 
-div {
+.form-container {
   margin: 10px auto;
   cursor: pointer;
 }
 
 fieldset {
   margin-bottom: 20px;
-
 }
