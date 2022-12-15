@@ -1,40 +1,16 @@
-#form-lesson1 {
-  margin-top: 0;
-}
-
-#form-lesson2 {
-  margin-bottom: 0;
-}
-
-#form-lesson3 {
-  margin-top: 0;
-}
-
-#form-lesson4 {
-  margin-bottom: 0;
-}
-
-#form-lesson5 {
-  margin-top: 0;
-}
-
-#form-lesson6 {
-  margin-bottom: 0;
-}
-
-#form-lesson7 {
-  margin-top: 0;
-}
-
-#form-lesson8 {
-  margin-bottom: 0;
-}
-
-.form-container {
+.form-container-element {
   margin: 10px auto;
   cursor: pointer;
 }
 
-fieldset {
+.container {
   margin-bottom: 20px;
+}
+
+.top-margin {
+  margin-top: 0;
+}
+
+.bottom-margin {
+  margin-bottom: 0;
 }
